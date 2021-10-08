@@ -7,6 +7,6 @@ print("Digite o sua idade")
 idade = int(input())
 idade += 1
 print("Sua idade + 1 é: " + str(idade))
-print("ola, teste  terminal")
+print("ola, teste terminal")
 print("olá, testando git")
 
